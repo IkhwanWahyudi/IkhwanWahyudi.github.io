@@ -176,6 +176,10 @@ nav ul li a {
     color: azure;
 }
 
+.kolomtentang img{
+    width:50%;
+}
+
 .foot{
     height: 50px;
     font-size: 120%;
